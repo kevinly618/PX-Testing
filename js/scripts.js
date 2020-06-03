@@ -1,7 +1,7 @@
 /*alert('hello'); */
 
 
-// GAINSIGHT PX INITIALIZER
+// GAINSIGHT PX INITIALIZER  Logged in Visitors
 (function(n, t, a, e) {
   var i = "aptrinsic";
   n[i] = n[i] || function() {
@@ -12,6 +12,16 @@
   var c = t.getElementsByTagName("script")[0];
   c.parentNode.insertBefore(r, c)
 })(window, document, "https://web-sdk.aptrinsic.com/api/aptrinsic.js", "AP-9EQZKYSPO8MH-2");
+
+// GAINSIGHT PX INITIALIZER Vistors and Leads
+  <script type="text/javascript">
+  (function(n,t,a,e){var i="aptrinsic";n[i]=n[i]||function(){
+      (n[i].q=n[i].q||[]).push(arguments)},n[i].p=e;
+    var r=t.createElement("script");r.async=!0,r.src=a+"?a="+e;
+    var c=t.getElementsByTagName("script")[0];c.parentNode.insertBefore(r,c)
+  })(window,document,"https://web-sdk.aptrinsic.com/api/aptrinsic.js","AP-9EQZKYSPO8MH-1");
+</script>
+
 
 
 
@@ -29,7 +39,7 @@ function login() {
       b = a.substr(0, 8);
       window.location = "index.html"; // Keep your index page (page you want to navigate after login)
 
-//PX IDENTIFICAITON PORTION
+//PX IDENTIFICAITON PORTION for Known Vistors
       aptrinsic("identify",
         {
         //User Fields
