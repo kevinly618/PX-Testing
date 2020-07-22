@@ -156,6 +156,18 @@ ABOUT PAGE STYLES
   text-align: center;
 }
 
+.middle-div {
+  text-align: center;
+}
+
+.paragraph-col1,.paragraph-col2 {
+  width: 45%;
+  display: inline-block;
+  text-align: justify;
+  margin: 10px;
+  font-size: 20px;
+}
+
 #destiny {
   background-color: #000;
 }
