@@ -171,3 +171,6 @@ ABOUT PAGE STYLES
 #destiny {
   background-color: #000;
 }
+
+.fixed{position:fixed;top:0; bottom:0}
+.innerscroll{overflow-y:scroll;height:100%}
