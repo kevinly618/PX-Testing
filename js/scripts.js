@@ -45,9 +45,32 @@ function login() {
        });
 
 
-    } else
+    } if (a == "bettycorp@gmail.com") {
+      alert("valid User");
+
+      b = a.substr(0, 8);
+      window.location = "index.html"; // Keep your index page (page you want to navigate after login)
+
+//PX IDENTIFICAITON PORTION for Known Vistors
+      aptrinsic("identify",
+        {
+        //User Fields
+          "id": a, // Required for logged in app users
+          "email": a,
+          "firstName": "Betty",
+          "lastName": "Corp",
+        },
+        {
+        //Account Fields
+          "id":"1P02JCQSL9U0L1CYDINVA002GDEEI2LK32JS", //Required
+          "name":"Betty Nguyen Corporation",
+       });
+
+
+    }
+    else
       alert("Invalid User,enter \"kevinly618@gmail.com\"");
   } else
-    alert("enter \"kevinly618@gmail.com\"");
+    alert("enter \"kevinly618@gmail.com\" or \"bettycorp@gmail.com");
   return b;
 }
