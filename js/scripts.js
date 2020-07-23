@@ -45,7 +45,7 @@ function login() {
        });
 
 
-    } if (a == "bettycorp@gmail.com") {
+    } else if (a == "bettycorp@gmail.com") {
       alert("valid User");
 
       b = a.substr(0, 8);
