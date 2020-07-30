@@ -45,7 +45,7 @@ function login() {
        });
 
 
-    } else if (a == "bettycorp@gmail.com") {
+    } else if (a == "bsons@gmail.com") {
       alert("valid User");
 
       b = a.substr(0, 8);
@@ -63,14 +63,14 @@ function login() {
         {
         //Account Fields
           "id":"1P02JCQSL9U0L1CYDINVA002GDEEI2LK32JS", //Required
-          "name":"Betty Nguyen Corporation",
+          "name":"Burlington & Sons Corporation",
        });
 
 
     }
     else
-      alert("Invalid User,enter \"kevinly618@gmail.com\"");
+      alert("Invalid User,enter \"kevinly618@gmail.com\" bsons@gmail.com");
   } else
-    alert("enter \"kevinly618@gmail.com\" or \"bettycorp@gmail.com");
+    alert("enter \"kevinly618@gmail.com\" or \"bsons@gmail.com");
   return b;
 }
