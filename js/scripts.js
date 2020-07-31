@@ -69,7 +69,7 @@ function login() {
 
     }
     else
-      alert("Invalid User,enter \"kevinly618@gmail.com\" bsons@gmail.com");
+      alert("Invalid User,enter \"kevinly618@gmail.com\"");
   } else
     alert("enter \"kevinly618@gmail.com\" or \"bsons@gmail.com");
   return b;
