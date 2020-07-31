@@ -174,3 +174,35 @@ ABOUT PAGE STYLES
 
 .fixed{position:fixed;top:0; bottom:0}
 .innerscroll{overflow-y:scroll;height:100%}
+
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#container {
+  height: 100%;
+}
+
+#sidebar {
+  background-color: #2980b9;
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+  width: 18%;
+  overflow: auto;
+}
+
+#content {
+  background-color: #f8f8f8;
+  display: inline-block;
+  vertical-align: top;
+  height: 100%;
+  width: 82%;
+  overflow: auto;
+}
