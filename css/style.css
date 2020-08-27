@@ -206,3 +206,10 @@ body {
   width: 82%;
   overflow: auto;
 }
+
+.LoginBoxButton {
+  margin: 1rem;
+}
+.LoginBox {
+  padding: 1rem;
+}
