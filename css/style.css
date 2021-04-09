@@ -285,107 +285,107 @@ body {
 
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-Black.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-Black.ttf) format("truetype");
+    src:url(css/fontAdobeClean-Black.otf) format("opentype"),url(css/font_ttf/AdobeClean-Black.ttf) format("truetype");
     font-weight:900
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-BlackIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-BlackIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-BlackIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-BlackIt.ttf) format("truetype");
     font-weight:900;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-Bold.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-Bold.ttf) format("truetype");
+    src:url(css/fontAdobeClean-Bold.otf) format("opentype"),url(css/font_ttf/AdobeClean-Bold.ttf) format("truetype");
     font-weight:700
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-BoldCond.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-BoldCond.ttf) format("truetype");
+    src:url(css/fontAdobeClean-BoldCond.otf) format("opentype"),url(css/font_ttf/AdobeClean-BoldCond.ttf) format("truetype");
     font-weight:700;
     font-stretch:condensed
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-BoldCondIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-BoldCondIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-BoldCondIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-BoldCondIt.ttf) format("truetype");
     font-weight:700;
     font-stretch:condensed;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-BoldIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-BoldIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-BoldIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-BoldIt.ttf) format("truetype");
     font-weight:700;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-BoldSemiCn.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-BoldSemiCn.ttf) format("truetype");
+    src:url(css/fontAdobeClean-BoldSemiCn.otf) format("opentype"),url(css/font_ttf/AdobeClean-BoldSemiCn.ttf) format("truetype");
     font-weight:700;
     font-stretch:semi-condensed
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-BoldSemiCnIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-BoldSemiCnIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-BoldSemiCnIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-BoldSemiCnIt.ttf) format("truetype");
     font-weight:700;
     font-stretch:semi-condensed;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(./fonts/AdobeClean-Cond.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-Cond.ttf) format("truetype");
+    src:url(.css/fontAdobeClean-Cond.otf) format("opentype"),url(css/font_ttf/AdobeClean-Cond.ttf) format("truetype");
     font-stretch:condensed
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(./fonts/AdobeClean-CondIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-CondIt.ttf) format("truetype");
+    src:url(.css/fontAdobeClean-CondIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-CondIt.ttf) format("truetype");
     font-stretch:condensed;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(./fonts/AdobeClean-ExtraBold.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-ExtraBold.ttf) format("truetype");
+    src:url(.css/fontAdobeClean-ExtraBold.otf) format("opentype"),url(css/font_ttf/AdobeClean-ExtraBold.ttf) format("truetype");
     font-weight:800
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-ExtraBoldIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-ExtraBoldIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-ExtraBoldIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-ExtraBoldIt.ttf) format("truetype");
     font-weight:800;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-It.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-It.ttf) format("truetype");
+    src:url(css/fontAdobeClean-It.otf) format("opentype"),url(css/font_ttf/AdobeClean-It.ttf) format("truetype");
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-Light.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-Light.ttf) format("truetype");
+    src:url(css/fontAdobeClean-Light.otf) format("opentype"),url(css/font_ttf/AdobeClean-Light.ttf) format("truetype");
     font-weight:300
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-LightIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-LightIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-LightIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-LightIt.ttf) format("truetype");
     font-weight:300;
     font-style:italic
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-Medium.otf) format("opentype");
+    src:url(css/fontAdobeClean-Medium.otf) format("opentype");
     font-weight:500
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-Regular.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-Regular.ttf) format("truetype");
+    src:url(css/fontAdobeClean-Regular.otf) format("opentype"),url(css/font_ttf/AdobeClean-Regular.ttf) format("truetype");
     font-weight:400
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-SemiCn.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-SemiCn.ttf) format("truetype");
+    src:url(css/fontAdobeClean-SemiCn.otf) format("opentype"),url(css/font_ttf/AdobeClean-SemiCn.ttf) format("truetype");
     font-stretch:semi-condensed
 }
 @font-face{
     font-family:adobe-clean;
-    src:url(/fonts/AdobeClean-SemiCnIt.otf) format("opentype"),url(/fonts/_ttf/AdobeClean-SemiCnIt.ttf) format("truetype");
+    src:url(css/fontAdobeClean-SemiCnIt.otf) format("opentype"),url(css/font_ttf/AdobeClean-SemiCnIt.ttf) format("truetype");
     font-stretch:semi-condensed;
     font-style:italic
